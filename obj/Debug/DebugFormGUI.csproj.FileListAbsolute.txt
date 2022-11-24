@@ -1,0 +1,8 @@
+W:\RTSG Tools\DebugFormGUI\bin\Debug\DebugFormGUI.exe
+W:\RTSG Tools\DebugFormGUI\bin\Debug\DebugFormGUI.pdb
+W:\RTSG Tools\DebugFormGUI\obj\Debug\DebugFormGUI.csprojAssemblyReference.cache
+W:\RTSG Tools\DebugFormGUI\obj\Debug\DebugLogsRunningForm.DebugLogsRunning.resources
+W:\RTSG Tools\DebugFormGUI\obj\Debug\DebugFormGUI.Properties.Resources.resources
+W:\RTSG Tools\DebugFormGUI\obj\Debug\DebugFormGUI.csproj.GenerateResource.cache
+W:\RTSG Tools\DebugFormGUI\obj\Debug\DebugFormGUI.exe
+W:\RTSG Tools\DebugFormGUI\obj\Debug\DebugFormGUI.pdb
